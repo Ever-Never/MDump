@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MDumpActivity!</string>
+    <string name="app_name">MDump</string>
+    <string name="filesizetitle">File Size</string>
+    <string name="Dump">Dump</string>
+    <string name="Monicker">Dump</string>
+    <string name="Version">0.0.2</string>
+    <string name="saveto">Output File:</string>
+
+</resources>
